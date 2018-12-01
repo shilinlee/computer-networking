@@ -103,3 +103,24 @@ default       192.168.0.1  0.0.0.0        UG     1024     0   0    eth0
 192.168.0.0   *            255.255.255.0  U      0        0   0    wlan0
 ```
 
+## 40 iptables Firewall Rules
+
+```bash
+$ iptables -L  # list iptables
+Chain INPUT ......
+
+Chain FORWARD .....
+
+$ iptables -P FORWARD DROP  # this is to change `FORWARD` pocicy to DROP
+$ iptables -L
+
+$ iptables -A INPUT -s 192.168.0.23 -j DROP  # this is to block the 192.168.0.23, it can't connect my computer anymore
+
+$ iptables -A INPUT -s 192.168.0.0/24 -p tcp --destination-port 25 -j DROP  # DROP the 192.168.0.0/24 tcp connection of smtp(mail) 
+
+$ iptables -A INPUT -s 192.168.66 -j ACCEPT  # this like white list
+$ iptables -D INPUT 3  # delete the third one
+$ iptables -I INPUT -s 192.168.66 -j ACCEPT  # -I, add it to the top of the list
+
+```
+
