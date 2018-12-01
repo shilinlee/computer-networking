@@ -45,3 +45,12 @@ $ sudo nano /var/www/html/info.php
 
 ```
 
+## 34 Installing PhpMyAdmin
+
+```bash
+$ sudo apt-get install phpmyadmin  # should config by step
+$ sudo php5enmod mcrypt
+$ sudo cp /etc/phpmyadmin/apache.conf /etc/apache2/conf-enabled/phpmyadmin.conf
+$ sudo server apache2 restart
+```
+
