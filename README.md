@@ -54,3 +54,21 @@ $ sudo cp /etc/phpmyadmin/apache.conf /etc/apache2/conf-enabled/phpmyadmin.conf
 $ sudo server apache2 restart
 ```
 
+## 35 Securing PhpMyAdmin with htaccess
+
+```bash
+$ sudo nano /etc/apache2/conf-enabled/phpmyadmin.conf
+   <Directory /usr/share/phpmyadmin>
+        .....
+        AllowOverride All
+   <Directory>
+$ sudo server apache2 restart
+$ sudo nano /usr/share/phpmyadmin/.htaccess
+	AuthTuype Basic
+	AuthName "Restricted Files"
+	AuthUserFile /etc/phpmyadmin/.htaccess
+	Require valid-user
+$ sudo apt-get install apache2-utils
+$ sudo htpasswd -c /etc/phpmyadmin/.htpasswd shiinlee  # then to config password
+```
+
