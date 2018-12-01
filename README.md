@@ -72,3 +72,20 @@ $ sudo apt-get install apache2-utils
 $ sudo htpasswd -c /etc/phpmyadmin/.htpasswd shiinlee  # then to config password
 ```
 
+## 36 Using SFTP or FTP
+
+## 37 DHCP (Dynamic Host Configuration Protocol）
+
+wikipedia: [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+
+- ### discovery
+
+- ### offer
+
+- ### request
+
+- ### acknowledgement
+
+-  information
+-  releasing
+
