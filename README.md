@@ -92,3 +92,14 @@ wikipedia: [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Proto
 ## 38 DNS
 
 wikipedia: [DNS](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F)
+
+## 39 Routing Tables Explained
+
+```bash
+$ route
+$ 54.123.2.2
+Destination   Gateway      Genmask        Flags  Mettric  Ref Use  Iface
+default       192.168.0.1  0.0.0.0        UG     1024     0   0    eth0
+192.168.0.0   *            255.255.255.0  U      0        0   0    wlan0
+```
+
