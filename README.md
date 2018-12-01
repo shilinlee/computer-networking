@@ -89,3 +89,6 @@ wikipedia: [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Proto
 -  information
 -  releasing
 
+## 38 DNS
+
+wikipedia: [DNS](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F)
