@@ -7,6 +7,14 @@ this is the basic knowledge of computer networking
 
 Computer networking depends on the theoretical application and practical implementation of fields like computer engineering, computer sciences, information technology and telecommunication.
 
+## 2,3,4 Types of Networks
+
+Reach / Size
+
+- LAN (Local Area Network) 局域网
+- MAN (Metropolitan Area Network) 城域网
+- WAN (Wide Area Network) 广域网 eg: "Internet"
+
 ## 31 Setting up a Firewall
 
 ```bash
