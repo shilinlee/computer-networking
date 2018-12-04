@@ -1,7 +1,11 @@
 # computer-networking
 this is the basic knowledge of computer networking
 
+## 1 What is computer networking
 
+**Computer networking** is an engineering discipline that aims to study and analyze the communication process among various computing devices or computer systems that are linked, or networked, together to exchange information and share resources.
+
+Computer networking depends on the theoretical application and practical implementation of fields like computer engineering, computer sciences, information technology and telecommunication.
 
 ## 31 Setting up a Firewall
 
