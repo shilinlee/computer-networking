@@ -38,15 +38,19 @@ PC --- Server --- Laptop
 
 ## 9 Network Interface Card (NIC)
 
+```
 A Network Interface Card (NIC) is a computer hardware component that allows a computer to connect to a network. NICs may be used for both wired and wireless connections.
 
 A NIC is also known as a network interface controller (NIC), network interface controller card, expansion card, computer circuit board, network card, LAN card, network adapter or network adapter card (NAC).
+```
 
 [**NIC**](https://en.wikipedia.org/wiki/Network_interface_controller)
 
 ## 10 What is Protocol?  什么是协议？
 
+```
 A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
+```
 
 ## 31 Setting up a Firewall
 
