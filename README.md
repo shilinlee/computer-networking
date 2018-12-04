@@ -88,7 +88,11 @@ A ring topology is a network configuration in which device connections create a 
 Alternatively referred to as a star network, star topology is one of the most common network setups. In this configuration, every node connects to a central network device, like a hub, switch, or computer. The central network device acts as a server and the peripheral devices act as clients. Depending on the type of network card used in each computer of the star topology, a coaxial cable or an RJ-45 network cable is used to connect computers together.
 ```
 
+## 15 Mesh Topology
 
+```
+A network setup where each computer and network device is interconnected with one another, allowing for most transmissions to be distributed even if one of the connections go down. It is a topology commonly used for wireless networks. Below is a visual example of a simple computer setup on a network using a mesh topology.
+```
 
 ## 31 Setting up a Firewall
 
