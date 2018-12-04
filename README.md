@@ -122,7 +122,11 @@ It gives us more ports.
 A repeater is a network device that retransmits a received signal with more power and to an extended geographical or topological network boundary than what would be capable with the original signal.
 ```
 
+## 22 How Binary Code works
 
+0 ~ 255
+
+128 64 32 16 8 4 2 1 0
 
 ## 31 Setting up a Firewall
 
