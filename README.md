@@ -108,6 +108,8 @@ A network setup where each computer and network device is interconnected with on
 
 [Modem](https://techterms.com/definition/modem)
 
+## 19 Router
+
 ## 31 Setting up a Firewall
 
 ```bash
