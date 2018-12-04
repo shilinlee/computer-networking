@@ -44,6 +44,10 @@ A NIC is also known as a network interface controller (NIC), network interface c
 
 [**NIC**](https://en.wikipedia.org/wiki/Network_interface_controller)
 
+## 10 What is Protocol?  什么是协议？
+
+A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
+
 ## 31 Setting up a Firewall
 
 ```bash
