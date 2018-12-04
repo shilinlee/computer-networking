@@ -141,6 +141,19 @@ A repeater is a network device that retransmits a received signal with more powe
 01101100     10100001     11100100     01000110
 ```
 
+## 24 IP Address Issue
+
+```
+  108     .    161     .    228     .   70
+01101100     10100001     11100100     01000110
+```
+
+108.161 : host
+
+228.70 : can connect to
+
+**so? How IP address save the world?**
+
 ## 31 Setting up a Firewall
 
 ```bash
