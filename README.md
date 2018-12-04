@@ -128,6 +128,19 @@ A repeater is a network device that retransmits a received signal with more powe
 
 128 64 32 16 8 4 2 1 0
 
+## 23 IP Address
+
+8-bit.  256 values
+
+2^8. = 256
+
+2^32 = .....
+
+```
+  108     .    161     .    228     .   70
+01101100     10100001     11100100     01000110
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
