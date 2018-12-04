@@ -94,6 +94,16 @@ Alternatively referred to as a star network, star topology is one of the most co
 A network setup where each computer and network device is interconnected with one another, allowing for most transmissions to be distributed even if one of the connections go down. It is a topology commonly used for wireless networks. Below is a visual example of a simple computer setup on a network using a mesh topology.
 ```
 
+## 16 OSI Model
+
+- Applications   (firefox / chrome / email)
+- Presentation  (O.S. / letters # numberts  --> ASCII)
+- Session  (Conversion between 2 computers)
+- Transport  (packages/datas are dilivered reliably)
+- Network  (Determine best roure for data)
+- Data Link  (NIC's / checking for error)
+- Physical  (Cable / fiber-optics / Electric Signals)
+
 ## 31 Setting up a Firewall
 
 ```bash
