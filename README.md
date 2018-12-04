@@ -52,6 +52,16 @@ A NIC is also known as a network interface controller (NIC), network interface c
 A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
 ```
 
+## 11 Protocols
+
+```
+http://www.google.com/index.html
+
+http: protocol
+www.google.com: server name
+index.html: file
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
