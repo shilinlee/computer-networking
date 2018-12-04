@@ -154,6 +154,14 @@ A repeater is a network device that retransmits a received signal with more powe
 
 **so? How IP address save the world?**
 
+## 25 Subnetting for beginners
+
+```
+              108     .    161     .    228     .   70
+IP Address  01101100     10100001     11100100     01000110
+Subnet mask 11111111     11111111     11111111     00000000  (255.255.255.0)
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
