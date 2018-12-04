@@ -26,7 +26,15 @@ Reach / Size
 
 ## 6 How the Internet Works
 
-PC --- Server --- PC
+PC --- Server --- Laptop
+
+## 7 Server
+
+## 8 Clients and Hosts
+
+“client”                                     "Host"
+
+  P.C.   —————————  Web Server
 
 ## 31 Setting up a Firewall
 
