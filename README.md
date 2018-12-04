@@ -62,6 +62,16 @@ www.google.com: server name
 index.html: file
 ```
 
+## 12 Bus Topology
+
+```
+"BUS":
+
+        "PC"              "MAC"
+"T"  ------------------------------ "Terminal"
+               "Laptop"
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
