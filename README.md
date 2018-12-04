@@ -110,6 +110,12 @@ A network setup where each computer and network device is interconnected with on
 
 ## 19 Router
 
+## 20 Switch
+
+It gives us more ports.
+
+[Switch](https://en.wikipedia.org/wiki/Network_switch)
+
 ## 31 Setting up a Firewall
 
 ```bash
