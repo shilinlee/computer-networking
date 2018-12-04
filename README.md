@@ -82,6 +82,12 @@ Bus topology is a specific kind of network topology in which all of the various 
 A ring topology is a network configuration in which device connections create a circular data path. Each networked device is connected to two others, like points on a circle. Together, devices in a ring topology are referred to as a ring network.
 ```
 
+## 14 Star Topology
+
+```
+Alternatively referred to as a star network, star topology is one of the most common network setups. In this configuration, every node connects to a central network device, like a hub, switch, or computer. The central network device acts as a server and the peripheral devices act as clients. Depending on the type of network card used in each computer of the star topology, a coaxial cable or an RJ-45 network cable is used to connect computers together.
+```
+
 
 
 ## 31 Setting up a Firewall
