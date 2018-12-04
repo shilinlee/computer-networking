@@ -15,6 +15,15 @@ Reach / Size
 - MAN (Metropolitan Area Network) 城域网
 - WAN (Wide Area Network) 广域网 eg: "Internet"
 
+## 5 Parts of a Network
+
+- PC
+- Server
+- Printer
+- routers（路由器）
+- modem（调制解调器）
+- ...
+
 ## 31 Setting up a Firewall
 
 ```bash
