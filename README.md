@@ -65,12 +65,24 @@ index.html: file
 ## 12 Bus Topology
 
 ```
+Bus topology is a specific kind of network topology in which all of the various devices in the network are connected to a single cable or line. In general, the term refers to how various devices are set up in a network.
+```
+
+```
 "BUS":
 
         "PC"              "MAC"
 "T"  ------------------------------ "Terminal"
                "Laptop"
 ```
+
+## 13 Ring Topology
+
+```
+A ring topology is a network configuration in which device connections create a circular data path. Each networked device is connected to two others, like points on a circle. Together, devices in a ring topology are referred to as a ring network.
+```
+
+
 
 ## 31 Setting up a Firewall
 
