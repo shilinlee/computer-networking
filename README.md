@@ -162,6 +162,23 @@ IP Address  01101100     10100001     11100100     01000110
 Subnet mask 11111111     11111111     11111111     00000000  (255.255.255.0)
 ```
 
+## 26 Network IP Address
+
+```
+IP     169.174.141.10
+Subnet 255.255.255.240
+
+ IP Address: 10101001 10101110 10001101 00001010
+Subnet mask: 11111111 11111111 11111111 11110000
+--------------------------------------------------
+ Network ID: 10101001 10101110 10001101 00000000
+ Network IP: 169.     174.     141.     0
+ 
+ Numbers if hosts: 16 (2^4, Subnetm mask have 4 zero)
+ Numbers if udsble hosts: 14
+ Usable hosts.  169.174.141.1 - 169.174.141.14  (belongs to us)
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
