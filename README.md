@@ -191,6 +191,16 @@ Subnet mask: 11111111 11111111 11111111 11110000
 $ ssh user@ip_address -p 22
 ```
 
+## 29 Creating SSH Keys
+
+## 30 Change default SSH Port
+
+```bash
+$ sudo nano /etc/ssh/sshd_config
+   Port 22  --->  Port 7777
+$ sudo service ssh restart
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
