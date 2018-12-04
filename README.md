@@ -24,6 +24,10 @@ Reach / Size
 - modem（调制解调器）
 - ...
 
+## 6 How the Internet Works
+
+PC --- Server --- PC
+
 ## 31 Setting up a Firewall
 
 ```bash
