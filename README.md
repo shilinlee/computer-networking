@@ -179,6 +179,18 @@ Subnet mask: 11111111 11111111 11111111 11110000
  Usable hosts.  169.174.141.1 - 169.174.141.14  (belongs to us)
 ```
 
+## 27 Cloud Server
+
+- Google Cloud
+- Amazon
+- digitalocean
+
+## 28 Connecting to a Server with ssh
+
+```bash
+$ ssh user@ip_address -p 22
+```
+
 ## 31 Setting up a Firewall
 
 ```bash
