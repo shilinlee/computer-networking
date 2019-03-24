@@ -52,9 +52,7 @@ network adapter card (NAC).
 ## 10 What is Protocol?  什么是协议？
 
 ```
-A protocol is a set of rules and guidelines for communicating data. Rules are defined for 
-each step and process during communication between two or more computers. Networks have to 
-follow these rules to successfully transmit data.
+A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
 ```
 
 ## 11 Protocols
@@ -70,9 +68,7 @@ index.html: file
 ## 12 Bus Topology
 
 ```
-Bus topology is a specific kind of network topology in which all of the various devices in 
-the network are connected to a single cable or line. In general, the term refers to how 
-various devices are set up in a network.
+Bus topology is a specific kind of network topology in which all of the various devices in the network are connected to a single cable or line. In general, the term refers to how various devices are set up in a network.
 ```
 
 ```
@@ -86,29 +82,19 @@ various devices are set up in a network.
 ## 13 Ring Topology
 
 ```
-A ring topology is a network configuration in which device connections create a circular 
-data path. Each networked device is connected to two others, like points on a circle. 
-Together, devices in a ring topology are referred to as a ring network.
+A ring topology is a network configuration in which device connections create a circular data path. Each networked device is connected to two others, like points on a circle. Together, devices in a ring topology are referred to as a ring network.
 ```
 
 ## 14 Star Topology
 
 ```
-Alternatively referred to as a star network, star topology is one of the most common 
-network setups. In this configuration, every node connects to a central network device, 
-like a hub, switch, or computer. The central network device acts as a server and the 
-peripheral devices act as clients. Depending on the type of network card used in each 
-computer of the star topology, a coaxial cable or an RJ-45 network cable is used to 
-connect computers together.
+Alternatively referred to as a star network, star topology is one of the most common network setups. In this configuration, every node connects to a central network device, like a hub, switch, or computer. The central network device acts as a server and the peripheral devices act as clients. Depending on the type of network card used in each computer of the star topology, a coaxial cable or an RJ-45 network cable is used to connect computers together.
 ```
 
 ## 15 Mesh Topology
 
 ```
-A network setup where each computer and network device is interconnected with one another, 
-allowing for most transmissions to be distributed even if one of the connections go down. 
-It is a topology commonly used for wireless networks. Below is a visual example of a 
-simple computer setup on a network using a mesh topology.
+A network setup where each computer and network device is interconnected with one another, allowing for most transmissions to be distributed even if one of the connections go down. It is a topology commonly used for wireless networks. Below is a visual example of a simple computer setup on a network using a mesh topology.
 ```
 
 ## 16,17 OSI Model
@@ -136,9 +122,7 @@ It gives us more ports.
 ## 21 Repeater
 
 ```
-A repeater is a network device that retransmits a received signal with more power and to 
-an extended geographical or topological network boundary than what would be capable with 
-the original signal.
+A repeater is a network device that retransmits a received signal with more power and to an extended geographical or topological network boundary than what would be capable with the original signal.
 ```
 
 ## 22 How Binary Code works
